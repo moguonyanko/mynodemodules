@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/moguonyanko/mynodemodules#readme",
   "dependencies": {
-    "@webcomponents/webcomponentsjs": "^2.2.10"
+    "@webcomponents/webcomponentsjs": "^2.2.10",
+    "custom-elements": "^1.0.2"
   }
 }
