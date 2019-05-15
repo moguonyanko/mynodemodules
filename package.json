@@ -1,0 +1,22 @@
+{
+  "name": "mynodemodules",
+  "version": "1.0.0",
+  "description": "My Node Modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moguonyanko/mynodemodules.git"
+  },
+  "author": "moguonyanko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moguonyanko/mynodemodules/issues"
+  },
+  "homepage": "https://github.com/moguonyanko/mynodemodules#readme",
+  "dependencies": {
+    "@webcomponents/webcomponentsjs": "^2.2.10"
+  }
+}
